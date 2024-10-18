@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ci_course
+Version: 0.1
+Summary: Demonstration of setting up continuous integration for a Python project
+License: MIT
+License-File: LICENSE
+Provides-Extra: docs
+Requires-Dist: sphinx; extra == "docs"
+Provides-Extra: dev
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"

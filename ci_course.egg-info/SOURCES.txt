@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+ci_course/__init__.py
+ci_course/functionality.py
+ci_course.egg-info/PKG-INFO
+ci_course.egg-info/SOURCES.txt
+ci_course.egg-info/dependency_links.txt
+ci_course.egg-info/not-zip-safe
+ci_course.egg-info/requires.txt
+ci_course.egg-info/top_level.txt
